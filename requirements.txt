@@ -24,7 +24,7 @@ idna==2.8
 isort==4.3.20
 itsdangerous==1.1.0
 jdcal==1.4.1
-Jinja2==2.10.1
+Jinja2==2.11.3
 joblib==0.14.0
 Kivy==1.11.1
 kivy-deps.angle==0.1.9
